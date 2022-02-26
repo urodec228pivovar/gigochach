@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigaCHad", "GigaCHad\GigaCHad.csproj", "{FDC427C0-4929-4B04-8FE3-FCB3DAD41D76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDC427C0-4929-4B04-8FE3-FCB3DAD41D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDC427C0-4929-4B04-8FE3-FCB3DAD41D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDC427C0-4929-4B04-8FE3-FCB3DAD41D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDC427C0-4929-4B04-8FE3-FCB3DAD41D76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B49F28E-38A3-44ED-9EFB-66D44C9A23A2}
+	EndGlobalSection
+EndGlobal
